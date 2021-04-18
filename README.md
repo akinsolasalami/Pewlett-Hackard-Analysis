@@ -23,6 +23,6 @@ need to be filled
 only have 1549 eligble employees
 
 
-!(Resources/image1.png "Image 1")
-!(Resources/image2.png "Image 2")
+![](Resources/image1.png "Image 1")
+![](Resources/image2.png "Image 2")
 
